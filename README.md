@@ -1,0 +1,2 @@
+# blogstrapiexample
+Blog Strapi Example
